@@ -1,0 +1,1 @@
+place = input('Name of place you lived before \n')
