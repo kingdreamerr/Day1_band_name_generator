@@ -24,3 +24,7 @@ name = "kingdreamerr"
 
 ### Band Name Generator:
 > This is a program that takes in two pieces of input from the user and then concatenates the two to form one out put
+
+#### Preview:
+
+![band name](./band_name.png)
