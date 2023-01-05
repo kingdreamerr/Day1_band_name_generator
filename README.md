@@ -28,3 +28,19 @@ name = "kingdreamerr"
 #### Preview:
 
 ![band name](./band_name.png)
+
+## How to run this on your device
+
+- Clone this repository
+```
+git clone https://github.com/kingdreamerr/Day1_band_name_generator.git
+```
+- cd into the repo
+```
+cd Day1_band_name_generator
+```
+
+- Paste the following in the terminal 
+```
+python3 main.py
+```
