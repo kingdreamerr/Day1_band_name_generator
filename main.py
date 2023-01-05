@@ -5,5 +5,5 @@ place = input("Name of place you've lived before \n")
 
 # Get the user's pet's name
 name_of_pet = input("What's your pet's name?\n")
-
+print("Here is a suggetion for the name of your band:\n")
 print(place + " " + name_of_pet)
